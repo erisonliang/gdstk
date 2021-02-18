@@ -1,0 +1,63 @@
+﻿gdstk.Reference
+===============
+
+.. currentmodule:: gdstk
+
+.. autoclass:: Reference
+   :members:
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      
+      
+         ~Reference.apply_repetition
+      
+      
+         ~Reference.bounding_box
+      
+      
+         ~Reference.convex_hull
+      
+      
+         ~Reference.copy
+      
+      
+         ~Reference.delete_gds_property
+      
+      
+         ~Reference.delete_property
+      
+      
+         ~Reference.get_gds_property
+      
+      
+         ~Reference.get_property
+      
+      
+         ~Reference.set_gds_property
+      
+      
+         ~Reference.set_property
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~Reference.cell
+      ~Reference.magnification
+      ~Reference.origin
+      ~Reference.properties
+      ~Reference.repetition
+      ~Reference.rotation
+      ~Reference.x_reflection
+   
+   

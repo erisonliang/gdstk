@@ -1,0 +1,58 @@
+﻿gdstk.Library
+=============
+
+.. currentmodule:: gdstk
+
+.. autoclass:: Library
+   :members:
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      
+      
+         ~Library.add
+      
+      
+         ~Library.delete_property
+      
+      
+         ~Library.get_property
+      
+      
+         ~Library.new_cell
+      
+      
+         ~Library.remove
+      
+      
+         ~Library.set_property
+      
+      
+         ~Library.top_level
+      
+      
+         ~Library.write_gds
+      
+      
+         ~Library.write_oas
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~Library.cells
+      ~Library.name
+      ~Library.precision
+      ~Library.properties
+      ~Library.unit
+   
+   

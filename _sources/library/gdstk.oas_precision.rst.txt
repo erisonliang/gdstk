@@ -1,0 +1,6 @@
+﻿gdstk.oas\_precision
+====================
+
+.. currentmodule:: gdstk
+
+.. autofunction:: oas_precision

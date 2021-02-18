@@ -1,0 +1,6 @@
+﻿gdstk.oas\_validate
+===================
+
+.. currentmodule:: gdstk
+
+.. autofunction:: oas_validate

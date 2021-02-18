@@ -1,0 +1,71 @@
+﻿gdstk.Cell
+==========
+
+.. currentmodule:: gdstk
+
+.. autoclass:: Cell
+   :members:
+
+   
+   
+   .. rubric:: Methods
+
+   .. autosummary::
+   
+      
+      
+         ~Cell.add
+      
+      
+         ~Cell.area
+      
+      
+         ~Cell.bounding_box
+      
+      
+         ~Cell.convex_hull
+      
+      
+         ~Cell.copy
+      
+      
+         ~Cell.delete_property
+      
+      
+         ~Cell.dependencies
+      
+      
+         ~Cell.filter
+      
+      
+         ~Cell.flatten
+      
+      
+         ~Cell.get_property
+      
+      
+         ~Cell.remove
+      
+      
+         ~Cell.set_property
+      
+      
+         ~Cell.write_svg
+      
+   
+   
+
+   
+   
+   .. rubric:: Attributes
+
+   .. autosummary::
+   
+      ~Cell.labels
+      ~Cell.name
+      ~Cell.paths
+      ~Cell.polygons
+      ~Cell.properties
+      ~Cell.references
+   
+   

@@ -1,0 +1,6 @@
+﻿gdstk.read\_oas
+===============
+
+.. currentmodule:: gdstk
+
+.. autofunction:: read_oas
